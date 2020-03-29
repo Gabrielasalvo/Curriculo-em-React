@@ -1,0 +1,14 @@
+.bigcard {
+  display: flex;
+  width: 400px;
+  height: 200px;
+  margin: 0 auto;
+  border: 1px solid black;
+  text-align: justify;
+  flex-direction: column;
+  font-weight: bold;
+}
+
+.bigcard h2 {
+  text-align: center;
+}

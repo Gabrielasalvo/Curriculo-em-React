@@ -1,0 +1,9 @@
+.contato {
+  display: flex;
+  width: 400px;
+  height: 100px;
+  margin: 0 auto;
+  border: 1px solid black;
+  text-align: justify;
+  flex-direction: column;
+}
